@@ -1,0 +1,27 @@
+[
+{
+    "songName": "Tere pyaar mein",
+    "filePath":"songs/1.mp3",
+    "coverpath":"covers/tere_pyar_main_cover.jpg",
+    "Index":"1"
+},
+{
+    "songName":"More Than you know",
+    "filePath":"songs/2.mp3",
+    "coverpath":"covers/more_than_you_know.jpg",
+    "Index":"2"
+},
+{
+    "songName":"Zehnaseeb",
+    "filePath":"songs/3.mp3",
+    "coverpath":"covers/zehnaseeb.jpg",
+    "Index":"3"
+},
+{
+    "songName":"Dekha Hazaro Dafaa",
+    "filePath":"songs/4.mp3",
+    "coverpath":"covers/dekha_hazaro_daffa.jpg",
+    "Index":"4"
+    
+}
+]
